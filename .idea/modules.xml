@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jigewenti/jigewenti.iml" filepath="$PROJECT_DIR$/jigewenti/jigewenti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renzhijiankang/renzhijiankang.iml" filepath="$PROJECT_DIR$/renzhijiankang/renzhijiankang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangcai/wangcai.iml" filepath="$PROJECT_DIR$/wangcai/wangcai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web.iml" filepath="$PROJECT_DIR$/.idea/web.iml" />
+    </modules>
+  </component>
+</project>
